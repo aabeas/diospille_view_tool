@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-DiospilleViewTool::Renderer.copyright '*** NAME ***', 'All rights reserved'
+DiospilleViewTool::Renderer.copyright 'ADD NAME HERE', 'All rights reserved'
 ```
 
 ## Development
