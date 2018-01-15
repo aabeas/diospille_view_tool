@@ -21,7 +21,7 @@ Or install it yourself as:
 ## Usage
 
 ```ruby
-DiospilleViewTool::Renderer.copyright 'Aaron Beasley', 'All rights reserved'
+DiospilleViewTool::Renderer.copyright 'Dios Pille', 'All rights reserved'
 ```
 
 ## Development
